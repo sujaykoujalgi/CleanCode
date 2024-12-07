@@ -1,0 +1,17 @@
+Clean Code by Robert Martin
+
+Foreward
+- 80% of work lies in maintaining the code.
+- 5S philosophy
+  Know where the code is with proper naming
+  Everything needs to be in it's place
+  No commented code
+  Code standardization
+  Discipline to follow these practices
+
+
+ALWAYS REMEMBER LEBLANC'S LAW: LATER = NEVER
+
+Chapter 2: Naming Conventions
+ - Every variable needs to be self expalnatory
+- Don;t use noise words just because you need placeholders
